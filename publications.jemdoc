@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+# jemdoc: analytics{UA-130203500-1}
+
+
+
+== Publications
+
+1. [https://arxiv.org/abs/2003.01025 Dynamic Queue-Jump Lane for Emergency Vehicles under Partially Connected Settings: A Multi-Agent Deep Reinforcement Learning Approach]
+
+Haoran Su, Kejian Shi, Joseph Y.J. Chow, Li Jin
+
+2. [https://arxiv.org/abs/2008.00335/ V2I Connectivity-Based Dynamic Queue-Jump Lane for Emergency Vehicles: A Deep Reinforcement Learning Approach]
+
+Haoran Su, Kejian Shi, Li Jin, Joseph Y.J. Chow
