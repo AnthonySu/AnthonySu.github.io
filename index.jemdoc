@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 # jemdoc: analytics{UA-130203500-1}
-= Haoran Su
+= Haoran (Anthony) Su 苏浩然
 
 ~~~
 {}{img_left}{Haoran.JPG}{tmp}{150}
@@ -14,26 +14,42 @@ Email: haoran \[dot\] su \[at\] nyu \[dot\] edu
 [https://scholar.google.com/citations?user=0s5Xa8gAAAAJ&hl=en/ Google Scholar] | [https://github.com/AnthonySu/ GitHub] | [https://www.linkedin.com/in/haorancal/ LinkedIn]
 ~~~
 
-== About me
+
+To recruiters: I am actively looking for machine\/deep\/reinforcement learning internship opportunities for summer 2021 and full-time roles 2022.
+
+
+== About Me
 
 I am a third year Ph.D. candidate (candidacy obtained August 2019) at New
-York University. I am affiliated with [https://c2smart.engineering.nyu.edu/ C2SMART]. I am fortunate to be working with professor [https://wp.nyu.edu/lijin/ Li Jin] and [https://engineering.nyu.edu/faculty/joseph-chow/ Joseph Y.J. Chow].
+York University. I am affiliated with [https://c2smart.engineering.nyu.edu/ C2SMART]. I am fortunate to be working with professor [https://wp.nyu.edu/lijin/ Li Jin, Ph.D.] and [https://engineering.nyu.edu/faculty/joseph-chow/ Joseph Y.J. Chow, Ph.D.].
 
-Before joining NYU, I obtained my double B.S. in Computer Science and Civil Engineering, as well as my M.S. in System Engineering, all from University of California at Berkeley.
+I was advised by professor [https://ce.berkeley.edu/people/faculty/soga/ Kenichi Soga, Ph.D.] for my M.S thesis.
+
+== Education Background
+
+Ph.D., Operation Research and Machine Learning, New York University, 2018.8 - 2021.12 (expected)
+
+Master of Science, Transportation Engineering, UC Berkeley, 2017.8 - 2018.5
+
+Bachelor of Science, Computer Science, UC Berkeley, 2013.8 - 2017.5
+
+Bachelor of Science, Engineering, UC Berkeley, 2017.8 - 2018.5
 
 
-== Research
 
-My research focus is the application of state-of-the-art deep reinforcement learning in the field of connected and autonomous vehicles (CAV). My research considers mixed-connectivity which reflects the true connected vehicle penetration rates on U.S. roads.
+== Research Interest
+
+My research focus is the application of state-of-the-art deep reinforcement learning in the field of connected and autonomous vehicles (CAV). My research considers mixed-connectivity with real penetration rate on US roads. 
 
 While learning from trial-and-error is the key idea in RL, the learning cost of RL could be unacceptable for complicated problems. Existing RL methods for games (e.g., Go or Atari games) usually require a massive number of update iterations of RL models to yield impressive results in simulated environments. These trial-and-error attempts will lead to real traffic collisions and inefficiency in real ITS applications. Therefore, how to learn efficiently (e.g., learning from limited data samples, efficient exploration, transferring learned knowledge) is a critical question for the application of RL in CAV applications.
 
- 
-=== Honors and Certificates
+== Honor and Awards
 
-2019-present Dwight David Eisenhower Transportation Fellowship, awarded by U.S. Department of Transportation.
+2019 - present Dwight David Eisenhower Transportation Fellowship, awarded by U.S. Department of Transportation.
 
-2019-present PhD Scholarship, awarded by NYU Tandon School of Engineering.
+2019 - present PhD Scholarship, awarded by NYU Tandon School of Engineering.
 
 2018 School of Engineering Fellowship, awarded by NYU Tandon School of Engineering.
+
+2013 - 2017 various semesters, Dean's List, awarded by UC Berkeley College of Nature Resources and College of Engineering
 
