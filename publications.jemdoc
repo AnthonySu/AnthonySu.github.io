@@ -1,8 +1,6 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 # jemdoc: analytics{UA-130203500-1}
 
-
-
 == Publications
 
 1. [https://arxiv.org/abs/2003.01025 Dynamic Queue-Jump Lane for Emergency Vehicles under Partially Connected Settings: A Multi-Agent Deep Reinforcement Learning Approach]
