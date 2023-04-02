@@ -16,35 +16,17 @@ I am a Machine Learning Engineer at TikTok Search. If you are interested in join
 
 
 == About Me
-
-I am finishing my Ph.D. at New York University. I am affiliated with [https://c2smart.engineering.nyu.edu/ C2SMART]. I am fortunate to be working with professor [https://wp.nyu.edu/lijin/ Li Jin, Ph.D.] and [https://engineering.nyu.edu/faculty/joseph-chow/ Joseph Y.J. Chow, Ph.D.].
-
+I am a Machine Learning Engineer at TikTok based in San Jose, CA. I work on query recommendation within Search.
+I obtained my Ph.D. from New York University. I was affiliated with [https://c2smart.engineering.nyu.edu/ C2SMART]. 
+I was fortunate to be working with professor [https://wp.nyu.edu/lijin/ Li Jin, Ph.D.] and [https://engineering.nyu.edu/faculty/joseph-chow/ Joseph Y.J. Chow, Ph.D.].
 I have previously interned as a machine learning reseacher at Siemens under the supervision of [https://www.linkedin.com/in/yaofeng-desmond-zhong-4443a843 Yaofeng Desmond Zhong, Ph.D.] and [https://d-biswa.github.io Biswadip Dey, Ph.D.].
 
 == Education
-\M Bachelor of Science, Computer Science, UC Berkeley, 2013.8 - 2017.5
+\M Ph.D., Engineering, New York University, 2018 - 2022
 
-\M Bachelor of Science, Engineering, UC Berkeley, 2013.8 - 2017.5
+\M Master of Science, Engineering, UC Berkeley, 2017 - 2018
 
-\M Master of Science, Engineering, UC Berkeley, 2017.8 - 2018.5
+\M Bachelor of Science, Computer Science, UC Berkeley, 2013 - 2017
 
-\M Ph.D., Engineering, New York University, 2018.8 - 2022
-
-== Research Interest
-
-My research focus are the deep reinforcement learning applications in the field of connected and autonomous vehicles (CAV). My research considers mixed-connectivity and mixed-autonomy.
-
-While learning from trial-and-error is the key idea in RL, the learning cost of RL could be unacceptable for complicated problems. Existing RL methods for games (e.g., Go or Atari games) usually require a massive number of update iterations of RL models to yield impressive results in simulated environments. These trial-and-error attempts will lead to real traffic collisions and inefficiency in real ITS applications. Therefore, how to learn efficiently (e.g., learning from limited data samples, efficient exploration, transferring learned knowledge) is a critical question for the application of RL in CAV applications.
-
-== Honor and Awards
-
-\M 2020 - present Dwight David Eisenhower Transportation Fellowship, Grant for Research Fellowship on the assigned project of 'Artificial Intelligence Application on Vehicle Tracking', awarded by U.S. Department of Transportation.
-
-\M 2019 - present Dwight David Eisenhower Transportation Fellowship, awarded by U.S. Department of Transportation.
-
-\M 2019 - present PhD Scholarship, awarded by NYU Tandon School of Engineering.
-
-\M 2018 School of Engineering Fellowship, awarded by NYU Tandon School of Engineering.
-
-\M 2013 - 2017 various semesters, Dean's List, awarded by UC Berkeley College of Nature Resources and College of Engineering
+\M Bachelor of Science, Engineering, UC Berkeley, 2013 - 2017
 
